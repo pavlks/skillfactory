@@ -1,3 +1,7 @@
+"""
+для проверки использовал консоль, где делал запросы
+curl 'localhost:5000/predict?value1=0.67&value2=7'
+"""
 import pickle
 
 import numpy as np
